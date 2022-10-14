@@ -440,8 +440,9 @@
                         color: #4B4B4B;
                     }
                     .logo2 {
-                        /*left: 20px;*/
-                        right: -20px;
+                        left: -120%;
+                        display: flex;
+                        flex-direction: left;
                     }
 
                     .collapse {
